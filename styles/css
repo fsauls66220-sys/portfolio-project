@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: black;
+    font-family: "Public Sans", sans-serif;
+    font-weight: bold;
+
+
+}
+p {
+    color: black;
+    font-family: "Public Sans", sans-serif;
+    font-weight: normal;
+}
+
+/*
+.public-sans-<uniquifier> {
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
