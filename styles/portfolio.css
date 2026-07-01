@@ -31,7 +31,7 @@ h2 {
 }
 
 
-h4 {
+h3 {
     font-size: 48px;
 }
 
@@ -44,7 +44,7 @@ p {
 .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
 
 }
 
@@ -62,8 +62,8 @@ p {
     font-size: 24px;
 }
 
-.content {
-    padding: 160px 20px;
+.content-container {
+    padding: 60px 20px;
 }
 
 .content h1 {
@@ -82,7 +82,7 @@ p {
     color: var(--text-color);
  }
 
- .cotent p {
+ .content p {
     font-size: 14px;
 }
 
@@ -194,14 +194,11 @@ footer .social -links:hover {
     font-size: 44px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
   }
 
-  .hero {
-    padding: 80px 20px;
-  }
-
+  
   .about-section {
     text-align: center;
     padding: 0; 
@@ -211,6 +208,7 @@ footer .social -links:hover {
     padding: 0;
     text-align: center;
   }
+
   footer .contact-box {
     padding: 30px ;
   }
